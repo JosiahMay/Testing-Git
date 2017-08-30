@@ -1,6 +1,4 @@
 # Testing-Git
 
-<<<<<<< HEAD
+* One line added
 * Adding second line
-=======
->>>>>>> master
